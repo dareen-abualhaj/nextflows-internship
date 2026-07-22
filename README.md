@@ -16,6 +16,15 @@ As the internship progresses, this repository will include:
 - Project implementations
 - Documentation
 
+## Completed Tasks & Progress
+
+### Week 1
+- **1.5 First MCP Server (One Tool)**
+  - Initialized a Node.js & TypeScript project configured for ESM.
+  - Implemented `@modelcontextprotocol/sdk` with `StdioServerTransport`.
+  - Created a `greet` tool validated via Zod schema.
+  - Located in: `my-first-mcp/`
+    
 ## Getting Started
 
 To use this repository:
