@@ -24,6 +24,11 @@ As the internship progresses, this repository will include:
   - Implemented `@modelcontextprotocol/sdk` with `StdioServerTransport`.
   - Created a `greet` tool validated via Zod schema.
   - Located in: `my-first-mcp/`
+
+- **1.6 Server Verification with MCP Inspector**
+  - Connected the MCP server to the `@modelcontextprotocol/inspector` via stdio.
+  - Tested the `greet` tool with valid inputs and verified the expected output.
+  - Tested Zod input validation and verified that invalid/missing inputs are rejected before handler execution.    
     
 ## Getting Started
 
